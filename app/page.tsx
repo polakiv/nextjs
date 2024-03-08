@@ -1,4 +1,5 @@
-// imports 
+// imports
+import Dropzone from '@/components/dropzone';
 
 export default function Home() {
   return (
@@ -16,8 +17,8 @@ export default function Home() {
         </p>
       </div>
 
-      {/* Upload Box 
-      <Dropzone />*/}
+      {/* Upload Box */}
+      <Dropzone />
     </div>
   );
 }
