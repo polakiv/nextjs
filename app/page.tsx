@@ -1,5 +1,4 @@
-// imports
-import Dropzone from '@/components/dropzone';
+// imports 
 
 export default function Home() {
   return (
