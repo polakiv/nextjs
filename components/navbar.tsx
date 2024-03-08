@@ -10,7 +10,7 @@ import {
   SheetDescription,
   SheetHeader,
   SheetTitle,
-  SheetTrigger, 
+  SheetTrigger,
 } from '@/components/ui/sheet';
 
 export default function Navbar({}): any {
