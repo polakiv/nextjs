@@ -28,7 +28,7 @@ import {
 import { Button } from "./ui/button";
 import loadFfmpeg from "@/utils/load-ffmpeg";
 // @ts-ignore  
-import type { Action } from "@/types";
+import type { Action } from "@/types.d.ts";
 import { FFmpeg } from "@ffmpeg/ffmpeg";
 
 const extensions = {
