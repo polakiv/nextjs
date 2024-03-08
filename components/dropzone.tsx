@@ -27,6 +27,7 @@ import {
 } from "./ui/select";
 import { Button } from "./ui/button";
 import loadFfmpeg from "@/utils/load-ffmpeg";
+// @ts-ignore  
 import type { Action } from "@/types";
 import { FFmpeg } from "@ffmpeg/ffmpeg";
 
